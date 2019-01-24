@@ -1,2 +1,2 @@
 # Patatap-Replica
-A replica of patatap 
+A replica of patatap from Colt Steele
